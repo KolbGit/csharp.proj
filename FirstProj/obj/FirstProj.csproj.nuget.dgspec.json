@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Win 10\\Downloads\\www\\FirstProj\\FirstProj.csproj": {}
+    "c:\\Users\\Win 10\\Downloads\\csharp.proj\\FirstProj\\FirstProj.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Win 10\\Downloads\\www\\FirstProj\\FirstProj.csproj": {
+    "c:\\Users\\Win 10\\Downloads\\csharp.proj\\FirstProj\\FirstProj.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Win 10\\Downloads\\www\\FirstProj\\FirstProj.csproj",
+        "projectUniqueName": "c:\\Users\\Win 10\\Downloads\\csharp.proj\\FirstProj\\FirstProj.csproj",
         "projectName": "FirstProj",
-        "projectPath": "c:\\Users\\Win 10\\Downloads\\www\\FirstProj\\FirstProj.csproj",
+        "projectPath": "c:\\Users\\Win 10\\Downloads\\csharp.proj\\FirstProj\\FirstProj.csproj",
         "packagesPath": "C:\\Users\\Win 10\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Win 10\\Downloads\\www\\FirstProj\\obj\\",
+        "outputPath": "c:\\Users\\Win 10\\Downloads\\csharp.proj\\FirstProj\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Win 10\\AppData\\Roaming\\NuGet\\NuGet.Config",

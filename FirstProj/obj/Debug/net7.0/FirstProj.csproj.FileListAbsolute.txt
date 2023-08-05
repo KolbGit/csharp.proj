@@ -1,0 +1,15 @@
+c:\Users\Win 10\Downloads\www\FirstProj\bin\Debug\net7.0\FirstProj.exe
+c:\Users\Win 10\Downloads\www\FirstProj\bin\Debug\net7.0\FirstProj.deps.json
+c:\Users\Win 10\Downloads\www\FirstProj\bin\Debug\net7.0\FirstProj.runtimeconfig.json
+c:\Users\Win 10\Downloads\www\FirstProj\bin\Debug\net7.0\FirstProj.dll
+c:\Users\Win 10\Downloads\www\FirstProj\bin\Debug\net7.0\FirstProj.pdb
+c:\Users\Win 10\Downloads\www\FirstProj\obj\Debug\net7.0\FirstProj.csproj.AssemblyReference.cache
+c:\Users\Win 10\Downloads\www\FirstProj\obj\Debug\net7.0\FirstProj.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Win 10\Downloads\www\FirstProj\obj\Debug\net7.0\FirstProj.AssemblyInfoInputs.cache
+c:\Users\Win 10\Downloads\www\FirstProj\obj\Debug\net7.0\FirstProj.AssemblyInfo.cs
+c:\Users\Win 10\Downloads\www\FirstProj\obj\Debug\net7.0\FirstProj.csproj.CoreCompileInputs.cache
+c:\Users\Win 10\Downloads\www\FirstProj\obj\Debug\net7.0\FirstProj.dll
+c:\Users\Win 10\Downloads\www\FirstProj\obj\Debug\net7.0\refint\FirstProj.dll
+c:\Users\Win 10\Downloads\www\FirstProj\obj\Debug\net7.0\FirstProj.pdb
+c:\Users\Win 10\Downloads\www\FirstProj\obj\Debug\net7.0\FirstProj.genruntimeconfig.cache
+c:\Users\Win 10\Downloads\www\FirstProj\obj\Debug\net7.0\ref\FirstProj.dll
